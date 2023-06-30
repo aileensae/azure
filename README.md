@@ -1,10 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
-
 <h1>How to create a resource group, storage account, container, and blob in Microsoft Azure </h1>
 This tutorial will guide you step by step on how to Create a resource group, storage account, container, and blob in microsoft azure.<br />
-
 
 <h2>Powerpoint Presentation</h2>
 
