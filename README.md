@@ -1,5 +1,5 @@
 <h1>How to create a resource group, storage account, container, and blob in Microsoft Azure </h1>
-This tutorial will guide you step by step on how to Create a resource group, storage account, container, and blob in microsoft azure.<br />
+This tutorial will guide you step by step on how to create a resource group, storage account, container, and blob in Microsoft Azure.<br />
 
 <h2>Powerpoint Presentation</h2>
 
@@ -7,7 +7,7 @@ This tutorial will guide you step by step on how to Create a resource group, sto
 
 <h2>Prerequisites</h2>
 
-  -Microsoft Azure Account
+- Microsoft Azure Account
 
 <h2>Environments and Technologies Used</h2>
 
